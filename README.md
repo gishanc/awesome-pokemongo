@@ -96,6 +96,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon Go Wiki](http://www.pokemongochamp.com/pokemon-go-wiki/) - Compact 1-page Pokemon Go Wiki.
 * [PokemonGO Database](http://pokemongo.gamepress.gg) - PokemonGO Database, Guides, Forums and Tutorials.
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
+* [PokemonGoGuide](https://pokemongo.gishan.net) - PokemonGO Guide
 
 #### Resources
 
